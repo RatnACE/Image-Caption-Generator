@@ -1,3 +1,6 @@
+generate models by running image caption 2.py , with location edited.
+flickr 8k dataset in used.
+
 Step1.: Make sure all the files are in same folder or directory.
 Step2.: Open GUI.py.
 Step3.: run  the code.
