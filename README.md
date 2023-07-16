@@ -54,9 +54,7 @@ To run this program, you need to have the following dependencies installed:
 
 - The program uses the TensorFlow library for deep learning tasks. Make sure you have TensorFlow installed and compatible with your Python environment.
 
-## License
 
-This program is released under the [MIT License](LICENSE). Feel free to modify and distribute it according to your needs.
 
 ## Acknowledgments
 
